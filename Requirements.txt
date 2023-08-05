@@ -1,0 +1,6 @@
+Language used:
+Python
+Software used:
+Jupyter Notebook(.ipnyb)
+Libraries used:
+OS, Glob, Librosa, Numpy, Sklearn, Tensorflow, Keras, Pydub, Tkinter, Sounddevice, PIL 
